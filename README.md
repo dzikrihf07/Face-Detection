@@ -2,4 +2,4 @@
 UAS Kecerdasan Buatan
 
 Run code in cmd:
-python dashboard.py
+"python dashboard.py"
